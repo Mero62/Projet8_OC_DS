@@ -33,8 +33,6 @@ Dans ce dépôt, vous trouverez :
 1. Le notebook jupyter réalisé sur AWS via JupyterHub: Notebook_cloud.ipynb.
 2. Le fichier de résultats sous format csv: df_results_cloud.csv.
 3. Le support de présentation : Présentation.pdf
-4. Le notebook jupyter de test local : Notebook_test_local.ipynb.
 5. Le fichier de boostrap, pour l'installation des dépendances nécessaires sur chaque noeud du cluster EMR : bootstrap-emr.sh
-6. Le logo de la société : logo_fruits.png
-7. Le dossier img_cloud contenant 5 images de 10 fruits/légumes différents, pour la démonstration dans le cloud
-8. Le fichier contenant les dépendances nécessaire pour l'environnement local : local_requirements.txt
+7. Le dossier Kucukbas_Meric_4_resultats_250124.zip contenant les fichiers parquets regroupants la vectorisation PCA (4904 images * 138 (PCA coeffs.)) 
+
