@@ -35,5 +35,5 @@ Dans ce dépôt, vous trouverez :
 2. Le fichier de résultats sous format csv: df_results_aws_emr.csv.
 3. Le support de présentation : Kucukbas_Meric_3_presentation_260124.pdf .
 4. Le fichier de boostrap, pour l'installation des dépendances nécessaires sur chaque noeud du cluster EMR : bootstrap-emr.sh .
-5. Le dossier Kucukbas_Meric_4_resultats_250124.zip contenant les fichiers parquets regroupants la vectorisation PCA (4904 images * 138 (PCA coeffs.)). Ces fichiers se trouvent aussi sur le cloud à l'adresse suivante :  [lien résultats cloud]([https://oc8-data-mkucukba.s3.eu-west-3.amazonaws.com/data/Test1/](https://oc8-data-mkucukba.s3.eu-west-3.amazonaws.com/data/Results/)https://oc8-data-mkucukba.s3.eu-west-3.amazonaws.com/data/Results/).
+5. Le dossier Kucukbas_Meric_4_resultats_250124.zip contenant les fichiers parquets regroupants la vectorisation PCA (4904 images * 138 (PCA coeffs.)). Ces fichiers se trouvent aussi sur le cloud à l'adresse suivante :  [lien résultats cloud](https://oc8-data-mkucukba.s3.eu-west-3.amazonaws.com/data/Results/).
 
